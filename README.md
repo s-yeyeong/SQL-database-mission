@@ -28,15 +28,16 @@
 ### A. 기본 조회
 **1. 모든 고객 정보 조회**
 *설명: 등록된 모든 고객의 이름과 전화번호를 확인합니다.*
-(여기에 1번 캡처 이미지 드래그 앤 드롭)
+<img width="672" height="719" alt="image" src="https://github.com/user-attachments/assets/cbc6c7d7-dc43-4643-b0be-17e7b27524f4" />
 
 **2. 가격이 5,500원 이상인 고급 메뉴 검색**
 *설명: 5,500원 이상인 메뉴를 가격이 비싼 순서대로 정렬하여 출력합니다.*
-(여기에 2번 캡처 이미지 드래그 앤 드롭)
+<img width="665" height="620" alt="image" src="https://github.com/user-attachments/assets/337a03e9-a02d-460a-a0e4-63a3bf4adf13" />
 
 **3. 전화번호가 '1111'로 끝나는 고객 찾기**
 *설명: 특정 전화번호 뒷자리를 가진 고객을 검색합니다.*
-(여기에 3번 캡처 이미지 드래그 앤 드롭)
+<img width="655" height="437" alt="image" src="https://github.com/user-attachments/assets/e401abc9-2552-4920-8001-c462ed83c4a4" />
+
 
 **4. 가장 비싼 메뉴 TOP 3 추출**
 *설명: 메뉴 중 가격이 가장 높은 상위 3개 메뉴만 뽑아냅니다.*
