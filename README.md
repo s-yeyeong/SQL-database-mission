@@ -57,6 +57,7 @@
 
 **7. 전체 메뉴의 주문 횟수 확인 (주문 안 된 메뉴 포함)**
 *설명: 인기 메뉴와 함께, 아직 한 번도 팔리지 않은 메뉴까지 모두 확인합니다.*
+
 <img width="677" height="861" alt="image" src="https://github.com/user-attachments/assets/063668cc-6db3-45ed-a19f-3ded94772790" />
 
 
